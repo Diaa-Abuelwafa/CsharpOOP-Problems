@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|c:\\users\\metro\\source\\repos\\assignment02oop\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|c:\\users\\metro\\source\\repos\\assignment02oop\\demo\\typed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|solutionrelative:demo\\typed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|c:\\users\\metro\\source\\repos\\assignment02oop\\demo\\typec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|solutionrelative:demo\\typec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|c:\\users\\metro\\source\\repos\\assignment02oop\\demo\\typeb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|solutionrelative:demo\\typeb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|c:\\users\\metro\\source\\repos\\assignment02oop\\demo\\typea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|solutionrelative:demo\\typea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|c:\\users\\metro\\source\\repos\\assignment02oop\\demo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|solutionrelative:demo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|c:\\users\\metro\\source\\repos\\assignment02oop\\demo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|solutionrelative:demo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|c:\\users\\metro\\source\\repos\\assignment02oop\\demo\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|solutionrelative:demo\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|c:\\users\\metro\\source\\repos\\assignment02oop\\demo\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|solutionrelative:demo\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|c:\\users\\metro\\source\\repos\\assignment02oop\\demo\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|solutionrelative:demo\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|c:\\users\\metro\\source\\repos\\assignment02oop\\demo\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|solutionrelative:demo\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|c:\\users\\metro\\source\\repos\\assignment02oop\\demo\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|solutionrelative:demo\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|c:\\users\\metro\\source\\repos\\assignment02oop\\demo\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|solutionrelative:demo\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|c:\\users\\metro\\source\\repos\\assignment02oop\\demo\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|solutionrelative:demo\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|c:\\users\\metro\\source\\repos\\assignment02oop\\demo\\marker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01500-A177-45BB-B225-31B9D60B7CA2}|Demo\\Demo.csproj|solutionrelative:demo\\marker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypeD.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\TypeD.cs",
+              "RelativeDocumentMoniker": "Demo\\TypeD.cs",
+              "ToolTip": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\TypeD.cs",
+              "RelativeToolTip": "Demo\\TypeD.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:34:07.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeC.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\TypeC.cs",
+              "RelativeDocumentMoniker": "Demo\\TypeC.cs",
+              "ToolTip": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\TypeC.cs",
+              "RelativeToolTip": "Demo\\TypeC.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:33:25.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TypeB.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\TypeB.cs",
+              "RelativeDocumentMoniker": "Demo\\TypeB.cs",
+              "ToolTip": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\TypeB.cs",
+              "RelativeToolTip": "Demo\\TypeB.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:32:17.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TypeA.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\TypeA.cs",
+              "RelativeDocumentMoniker": "Demo\\TypeA.cs",
+              "ToolTip": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\TypeA.cs",
+              "RelativeToolTip": "Demo\\TypeA.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:30:52.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo\\Employee.cs",
+              "ToolTip": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Employee.cs",
+              "RelativeToolTip": "Demo\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:24:37.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Animal.cs",
+              "RelativeDocumentMoniker": "Demo\\Animal.cs",
+              "ToolTip": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Animal.cs",
+              "RelativeToolTip": "Demo\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:57:05.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Human.cs",
+              "RelativeDocumentMoniker": "Demo\\Human.cs",
+              "ToolTip": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Human.cs",
+              "RelativeToolTip": "Demo\\Human.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:56:56.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Creature.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Creature.cs",
+              "RelativeDocumentMoniker": "Demo\\Creature.cs",
+              "ToolTip": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Creature.cs",
+              "RelativeToolTip": "Demo\\Creature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:56:44.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Page.cs",
+              "RelativeDocumentMoniker": "Demo\\Page.cs",
+              "ToolTip": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Page.cs",
+              "RelativeToolTip": "Demo\\Page.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:50:50.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Book.cs",
+              "RelativeDocumentMoniker": "Demo\\Book.cs",
+              "ToolTip": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Book.cs",
+              "RelativeToolTip": "Demo\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:50:44.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Chair.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Chair.cs",
+              "RelativeDocumentMoniker": "Demo\\Chair.cs",
+              "ToolTip": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Chair.cs",
+              "RelativeToolTip": "Demo\\Chair.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:39:00.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Room.cs",
+              "RelativeDocumentMoniker": "Demo\\Room.cs",
+              "ToolTip": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Room.cs",
+              "RelativeToolTip": "Demo\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:38:47.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Marker.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Marker.cs",
+              "RelativeDocumentMoniker": "Demo\\Marker.cs",
+              "ToolTip": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Marker.cs",
+              "RelativeToolTip": "Demo\\Marker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:28:47.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Board.cs",
+              "RelativeDocumentMoniker": "Demo\\Board.cs",
+              "ToolTip": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Board.cs",
+              "RelativeToolTip": "Demo\\Board.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:28:20.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\metro\\source\\repos\\Assignment02OOP\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:57:28.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

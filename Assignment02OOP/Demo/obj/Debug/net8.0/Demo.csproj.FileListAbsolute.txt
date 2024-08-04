@@ -1,0 +1,14 @@
+C:\Users\metro\source\repos\Assignment02OOP\Demo\bin\Debug\net8.0\Demo.exe
+C:\Users\metro\source\repos\Assignment02OOP\Demo\bin\Debug\net8.0\Demo.deps.json
+C:\Users\metro\source\repos\Assignment02OOP\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+C:\Users\metro\source\repos\Assignment02OOP\Demo\bin\Debug\net8.0\Demo.dll
+C:\Users\metro\source\repos\Assignment02OOP\Demo\bin\Debug\net8.0\Demo.pdb
+C:\Users\metro\source\repos\Assignment02OOP\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metro\source\repos\Assignment02OOP\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+C:\Users\metro\source\repos\Assignment02OOP\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+C:\Users\metro\source\repos\Assignment02OOP\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\metro\source\repos\Assignment02OOP\Demo\obj\Debug\net8.0\Demo.dll
+C:\Users\metro\source\repos\Assignment02OOP\Demo\obj\Debug\net8.0\refint\Demo.dll
+C:\Users\metro\source\repos\Assignment02OOP\Demo\obj\Debug\net8.0\Demo.pdb
+C:\Users\metro\source\repos\Assignment02OOP\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+C:\Users\metro\source\repos\Assignment02OOP\Demo\obj\Debug\net8.0\ref\Demo.dll

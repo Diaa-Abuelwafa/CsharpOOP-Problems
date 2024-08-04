@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Technology\\Backend\\3- C# OOP\\Assignments Route Solutions\\Assignment04OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A943EA-11F4-47BE-957B-55C6FA48A09F}|Assignment04\\Assignment04.csproj|d:\\technology\\backend\\3- c# oop\\assignments route solutions\\assignment04oop\\assignment04\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A943EA-11F4-47BE-957B-55C6FA48A09F}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A943EA-11F4-47BE-957B-55C6FA48A09F}|Assignment04\\Assignment04.csproj|d:\\technology\\backend\\3- c# oop\\assignments route solutions\\assignment04oop\\assignment04\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A943EA-11F4-47BE-957B-55C6FA48A09F}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A943EA-11F4-47BE-957B-55C6FA48A09F}|Assignment04\\Assignment04.csproj|d:\\technology\\backend\\3- c# oop\\assignments route solutions\\assignment04oop\\assignment04\\3dpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A943EA-11F4-47BE-957B-55C6FA48A09F}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\3dpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A943EA-11F4-47BE-957B-55C6FA48A09F}|Assignment04\\Assignment04.csproj|d:\\technology\\backend\\3- c# oop\\assignments route solutions\\assignment04oop\\assignment04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A943EA-11F4-47BE-957B-55C6FA48A09F}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Duration.cs",
+              "DocumentMoniker": "D:\\Technology\\Backend\\3- C# OOP\\Assignments Route Solutions\\Assignment04OOP\\Assignment04\\Duration.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Duration.cs",
+              "ToolTip": "D:\\Technology\\Backend\\3- C# OOP\\Assignments Route Solutions\\Assignment04OOP\\Assignment04\\Duration.cs",
+              "RelativeToolTip": "Assignment04\\Duration.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAADwv7wAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T18:14:25.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maths.cs",
+              "DocumentMoniker": "D:\\Technology\\Backend\\3- C# OOP\\Assignments Route Solutions\\Assignment04OOP\\Assignment04\\Maths.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Maths.cs",
+              "ToolTip": "D:\\Technology\\Backend\\3- C# OOP\\Assignments Route Solutions\\Assignment04OOP\\Assignment04\\Maths.cs",
+              "RelativeToolTip": "Assignment04\\Maths.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T17:45:33.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3DPoint.cs",
+              "DocumentMoniker": "D:\\Technology\\Backend\\3- C# OOP\\Assignments Route Solutions\\Assignment04OOP\\Assignment04\\3DPoint.cs",
+              "RelativeDocumentMoniker": "Assignment04\\3DPoint.cs",
+              "ToolTip": "D:\\Technology\\Backend\\3- C# OOP\\Assignments Route Solutions\\Assignment04OOP\\Assignment04\\3DPoint.cs",
+              "RelativeToolTip": "Assignment04\\3DPoint.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAkwD0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T17:09:28.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Technology\\Backend\\3- C# OOP\\Assignments Route Solutions\\Assignment04OOP\\Assignment04\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Program.cs",
+              "ToolTip": "D:\\Technology\\Backend\\3- C# OOP\\Assignments Route Solutions\\Assignment04OOP\\Assignment04\\Program.cs",
+              "RelativeToolTip": "Assignment04\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAGQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T17:08:12.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
